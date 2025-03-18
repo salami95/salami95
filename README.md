@@ -28,27 +28,6 @@ I thrive on blending scientific rigor with creative problem-solving. Whether it'
   Seabreeze High School  
   *2009–2013*
 
-## 💼 Professional Experience
-
-- **Radiology Imaging Procedure Assistant**  
-  *Mayo Clinic, Jacksonville, FL (2017–2021)*  
-  Sharpened my leadership and problem-solving skills in high-stakes, fast-paced clinical settings.
-
-- **Transporter**  
-  *Baptist Medical Center, Jacksonville, FL (2018–2019)*  
-  Enhanced patient care and safety by ensuring seamless coordination across departments.
-
-- **Pharmacy Technician**  
-  *Walgreens, Jacksonville, FL (2017–2018)*  
-  Developed keen attention to detail by processing prescriptions and navigating insurance logistics.
-
-- **Records Manager/Medical Assistant**  
-  *Parks Dermatology Center, Ormond Beach, FL (2014–2017)*  
-  Pioneered the transition from paper to electronic records, optimizing clinical workflows.
-
-- **Versatile Team Member**  
-  *Hull’s Seafood, Ormond Beach, FL (2011–2014)*  
-  Rose from dishwasher to team lead, demonstrating adaptability and leadership.
 
 ## 📚 Research & Publications
 
@@ -62,27 +41,6 @@ I thrive on blending scientific rigor with creative problem-solving. Whether it'
 - **Telemedicine and Its Impact on Access to Primary Care for Mental Health**  
   Presented at Stethoscope Journal with the Volusia County Medical Society (2024)
 
-## 🏆 Awards & Recognitions
-
-- **Above and Beyond Award**, Mayo Clinic (4x Recipient, 2017–2021)
-- **Kudos Award**, Baptist Medical Center (2018–2019)
-- **Company Excellence Award**, Parks Dermatology Center (7x Recipient, 2014–2017)
-- **Paul Bigham Scholarship** & **Culinary Academy Scholarship**, Seabreeze High School (2013)
-
-## 🤝 Involvement & Leadership
-
-- FSU Daytona Regional Campus
-- Congress of Graduate Students
-- Dermatology Interest Group
-- Business and Medicine  
-  - **AI Chair** (2024–Present)  
-  - **Representative & Vice President** (2022–2023)  
-  - **Secretary** (2022–2023)
-
-## 🔧 Certifications
-
-- **ACLS** (Advanced Cardiovascular Life Support)
-- **BLS** (Basic Life Support)
 
 ## 🧠 Interests & Passions
 
@@ -92,9 +50,5 @@ I thrive on blending scientific rigor with creative problem-solving. Whether it'
 - **Travel & Culture:** I love immersing myself in new cultures and experiences.
 - **Fun & Games:** Fantasy football and a keen interest in cars add a playful twist to my life.
 
-## 📫 Get in Touch
-
-- **Email:** [kas22p@med.fsu.edu](mailto:kas22p@med.fsu.edu)
-- **Phone:** (386) 366-0534
 
 Let's connect, collaborate, and innovate together. The future of healthcare is bright—and I'm ready to lead the charge!
